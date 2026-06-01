@@ -10,12 +10,12 @@
 ### 📸 Proof of Prior Work & Activity
 
 **Original Profile & Contribution History**
-<img src="old_profile_screenshot.png" width="100%" alt="Old Profile Overview"/>
+<img src="images/old_profile_screenshot.png" width="100%" alt="Old Profile Overview"/>
 
 <br>
 
 **Original Repository Archives**
-<img src="repo_screenshot_1.png" width="100%" alt="Repository Proof 1"/>
+<img src="images/repo_screenshot_1.png" width="100%" alt="Repository Proof 1"/>
 
 ---
 
